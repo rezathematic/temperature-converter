@@ -1,4 +1,4 @@
-// defining the function - convert Celcius to Fahrenheit
+// defining the function - convert Celsius to Fahrenheit
 function convert(degree) {
     let temp;
     if (degree == 'C') {
